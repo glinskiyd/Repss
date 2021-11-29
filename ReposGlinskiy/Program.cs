@@ -8,6 +8,7 @@ namespace ReposGlinskiy
         {
             Console.WriteLine("Hello World!");
             Console.WriteLine("Hello Vanek!");
+            ц352
         }
     }
 }
