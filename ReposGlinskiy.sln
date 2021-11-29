@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReposGlinskiy", "ReposGlinskiy\ReposGlinskiy.csproj", "{42CE9B60-A165-4793-866C-59B66F31D503}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{42CE9B60-A165-4793-866C-59B66F31D503}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{42CE9B60-A165-4793-866C-59B66F31D503}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{42CE9B60-A165-4793-866C-59B66F31D503}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{42CE9B60-A165-4793-866C-59B66F31D503}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A270F863-F8AE-48B4-99D7-3FB5534C08CB}
+	EndGlobalSection
+EndGlobal
